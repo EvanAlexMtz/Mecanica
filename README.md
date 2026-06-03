@@ -24,11 +24,11 @@
 
 ### Integrantes del Equipo
 
-| # | Nombre Completo | Matrícula |
+| # | Nombre Completo | Boleta |
 |---|---|---|
 | 1 | Martínez Maciel Evan Alexander | 2026630112 |
 | 2 | Delgado Andrade Cristian Antonio | 2026630229 |
-| 3 | _[Nombre Integrante 3]_ | _[Matrícula]_ |
+| 3 | Hernandez Elizalde Yael | 2026630088 |
 
 ---
 
