@@ -27,7 +27,7 @@
 | # | Nombre Completo | Matrícula |
 |---|---|---|
 | 1 | Martínez Maciel Evan Alexander | 2026630112 |
-| 2 | Delgado Andrade Cristian Antonio | _[Matrícula]_ |
+| 2 | Delgado Andrade Cristian Antonio | 2026630229 |
 | 3 | _[Nombre Integrante 3]_ | _[Matrícula]_ |
 
 ---
