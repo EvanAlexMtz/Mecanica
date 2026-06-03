@@ -20,7 +20,7 @@
 | **Asignatura** | Mecánica y Electromagnetismo |
 | **Carrera** | Ingeniería en Sistemas Computacionales |
 | **Institución** | Intituto Politéctico Nacional ESCOM |
-| **Periodo** | 2025 Semestre II. |
+| **Periodo** | 2026 Semestre II. |
 
 ### Integrantes del Equipo
 
